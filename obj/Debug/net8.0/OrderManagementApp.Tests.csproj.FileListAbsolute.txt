@@ -163,3 +163,4 @@ E:\Sarala\SamplePracticeApp\OrderManagementApp.Tests\obj\Debug\net8.0\refint\Ord
 E:\Sarala\SamplePracticeApp\OrderManagementApp.Tests\obj\Debug\net8.0\OrderManagementApp.Tests.pdb
 E:\Sarala\SamplePracticeApp\OrderManagementApp.Tests\obj\Debug\net8.0\OrderManagementApp.Tests.genruntimeconfig.cache
 E:\Sarala\SamplePracticeApp\OrderManagementApp.Tests\obj\Debug\net8.0\ref\OrderManagementApp.Tests.dll
+E:\Sarala\SamplePracticeApp\OrderManagementApp.Tests\obj\Debug\net8.0\OrderManagementApp.Tests.sourcelink.json
